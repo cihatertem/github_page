@@ -341,6 +341,7 @@ footer {
   position: absolute;
   text-align: center;
   width: 100vw;
+  z-index: 4;
 }
 
 footer p {
